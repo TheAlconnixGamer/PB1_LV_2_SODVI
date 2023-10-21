@@ -15,13 +15,13 @@ Semestre: 2024-1
 
 Torre de niveles: 2
 
-#Introducción:
+# Introducción:
 
 El juego se identifica de como se tratará a un juego de terror, shooter, en el que nuestro personaje se dará cuenta de las habilidades espeluznantes que desata al ir a su cama a dormir,
 con un ambiente lúgubre y melancólico incómodamente silencioso, entorno planeado en un campo amplio rodeado de árboles donde se desarrolla una historia del pasado y recuperacion de nuestro
 protagonista.
 
-#Descripción del proyecto:
+# Descripción del proyecto:
 
 Además, adjuntar al menos cinco imágenes que muestran el proceso de trabajo, junto con su correspondiente descripción del proyecto.
 Para la creacion de nuestro proyecto indicamos correctamente de tal manera que se escribio una historia antes sobre que el protagonista perdio a un ser querido de tal manera que afecta su presente entonces
