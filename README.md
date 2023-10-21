@@ -3,10 +3,14 @@ Equipo: 13
 
 Integrantes:
 
-Efra de Leon - Manager 
+Efra de Leon - Manager
+
 Jeremy Ventura - Coder 
+
 Jada Ramirez - Artista 
+
 Ricardo Silva - Músico 
+
 Semestre: 2024-1
 
 Torre de niveles: 2
